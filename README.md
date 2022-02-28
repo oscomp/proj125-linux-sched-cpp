@@ -26,8 +26,8 @@ Linux进程调度现有公平调度，实时调度等策略，他们都由内核
 MIT license (LICENSE-MIT or http://opensource.org/licenses/MIT)  
 
 ## 【预期目标】
-### 初步完成Linux的部分进程调度机制C++改造
-### 系统能平稳运行
+- 初步完成Linux的部分进程调度机制C++改造
+- 系统能平稳运行
 
 ### 【参考资源】
 - C++语言相关书籍
